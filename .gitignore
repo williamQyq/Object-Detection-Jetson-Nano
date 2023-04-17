@@ -1,0 +1,16 @@
+*.jpg
+*.png
+*.jpeg
+
+
+yolo_infrared_training/infrared_obj/
+yolo_infrared_training/infrared_training/
+yolo_infrared_training/mask_obj/
+yolo_infrared_training/training/
+
+
+yolo_infrared_training/darknet/data/*
+
+!yolo_infrared_training/darknet/data/labels/*
+
+
